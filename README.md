@@ -5,15 +5,13 @@
 	<img src="http://elemental-ui.com/images/elemental-logo-paths.svg" width="174" height="154" alt="Elemental Logo" />
 </p>
 
-# Elemental UI
+# Elemental UI for React 16.3
 
-React & CSS UI Framework.
+React & CSS UI Framework that has been updated to work with the latest version of React (v16 and up)
 
-Currently under development; built by [@JedWatson](https://github.com/JedWatson) and [@JossMac](https://github.com/JossMac) at [Thinkmill](http://www.thinkmill.com.au).
+The original elemental-ui is located at [elementalui/elemental](https://github.com/elementalui/elemental) and was built by [@JedWatson](https://github.com/JedWatson) and [@JossMac](https://github.com/JossMac) at [Thinkmill](http://www.thinkmill.com.au).
 
 See [elemental-ui.com](http://elemental-ui.com) for examples and documentation.
-
-Follow us on twitter [@elementalui](https://twitter.com/elementalui) for updates!
 
 ## Browser Support
 
