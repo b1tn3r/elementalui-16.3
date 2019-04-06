@@ -1,4 +1,8 @@
 {
+  "main": "lib/Elemental.js",
+  "name": "elemental-react16",
+  "version": "1.0.0",
+  "license": "MIT",
   "author": {
     "name": "Jed Watson"
   },
@@ -24,10 +28,6 @@
     "css",
     "less"
   ],
-  "license": "MIT",
-  "main": "lib/Elemental.js",
-  "name": "elemental-react16",
-  "version": "1.0.0",
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0 || ^16.0.0",
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0",
