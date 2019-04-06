@@ -5,7 +5,7 @@
 	<img src="http://elemental-ui.com/images/elemental-logo-paths.svg" width="174" height="154" alt="Elemental Logo" />
 </p>
 
-# Elemental UI for React 16.3
+# Elemental UI for React 16
 
 React & CSS UI Framework that has been updated to work with the latest version of React (v16 and up)
 
