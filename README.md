@@ -9,6 +9,10 @@
 
 React & CSS UI Framework that has been updated to work with the latest version of React (v16 and up)
 
+This was made directly for production usage and will work in any project with React and React-dom versions ^0.14.0, ^15.0.0, or ^16.0.0.
+
+If you're using this in Keystone-js (for updating Keystone-js to React 16), I recommend you add it as an additional package in a monorepo under the name 'elemental' and symlink it to the keystone project.
+
 The original elemental-ui is located at [elementalui/elemental](https://github.com/elementalui/elemental) and was built by [@JedWatson](https://github.com/JedWatson) and [@JossMac](https://github.com/JossMac) at [Thinkmill](http://www.thinkmill.com.au).
 
 See [elemental-ui.com](http://elemental-ui.com) for examples and documentation.
